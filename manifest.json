@@ -1,24 +1,14 @@
 {
-  "name": "AUMATIQ Personal Productivity OS",
-  "short_name": "AUMATIQ OS",
-  "description": "NABS&FBK Family Management System — PWA",
-  "start_url": "index.html",
+  "name": "NABS&FBK Home OS",
+  "short_name": "Home OS",
+  "description": "Family management system for NABS&FBK household",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0A0A0F",
-  "theme_color": "#0EA5E9",
+  "theme_color": "#0A0A0F",
   "orientation": "portrait-primary",
   "icons": [
-    {
-      "src": "icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
-    }
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
   ]
 }
