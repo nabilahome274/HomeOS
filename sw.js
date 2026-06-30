@@ -1,4 +1,4 @@
-const CACHE_NAME = 'nfhos-cache-v2';
+const CACHE_NAME = 'nfhos-cache-v3';
 const ASSETS = ['./index.html', './manifest.json'];
 
 self.addEventListener('install', e => {
